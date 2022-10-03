@@ -1,6 +1,6 @@
 # flutter_trip
 
-A new Flutter project.
+Flutter从入门到进阶 实战携程网App 一网打尽核心技术/课程学习代码 
 
 ## Getting Started
 
